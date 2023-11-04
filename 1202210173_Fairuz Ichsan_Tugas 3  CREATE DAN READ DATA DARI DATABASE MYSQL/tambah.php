@@ -24,10 +24,10 @@ if (isset($_POST["submit"])){
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Tambah Data Barang Toko Abadi</title>
+        <title>Tambah Data Barang Toko irus</title>
     </head>
     <body>
-        <h1>Tambah Data Barang Toko Abadi</h1>
+        <h1>Tambah Data Barang Toko irus</h1>
         <form action="" method="post">
             <ul>
                 <li>
